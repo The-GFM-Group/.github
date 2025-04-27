@@ -2,7 +2,7 @@
 This is where we do a lot of our work behind the scenes. While most if not all of it is private, we are flattered with your interest in the behind-the-scenes aspects of our work.
 
 For complete products from us, you can check it all out at the following websites:
-bygraffix.com,
+https://bygraffix.com,
 futurentertain.com,
 moderneindustries.com,
 thegfm.group
