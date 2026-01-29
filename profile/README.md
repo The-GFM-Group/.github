@@ -8,3 +8,6 @@ https://moderneindustries.com,
 https://thegfm.group
 
 Thank you for your support. Without you all, we could never get to where we are today. Stay tuned.
+
+
+©️ and ™️2026 Graffix LLC and subsidiaries. All rights reserved.
