@@ -4,7 +4,7 @@ This is where we do a lot of our software work behind the scenes. While most if 
 For our complete public projects, you can check it all out at the following websites:
 https://bygraffix.com,
 https://futurentertain.com,
-https://moderneindustries.com,
+https://meliorindustries.com,
 https://thegfm.group
 
 Thank you for your support. Without you all, we could never get to where we are today. Stay tuned.
