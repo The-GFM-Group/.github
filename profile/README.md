@@ -7,7 +7,7 @@ https://futurentertain.com,
 https://meliorindustries.com,
 https://thegfm.group
 
-We also believe in open-source projects as a way to combat unethical pricing for apps that are operated by greedy corporations. With this, we will publish some projects of ours to be fully free and publicly available to download. Please do note that some are built with AI, however we run these models locally on equipment we directly own. We get railed by PG&E monthly in expenses (our true-up bills skyrocketed), but at the same time supporting the great state of California's fast-paced changes to a future with one of the most cleanest energy grids in the world.
+We also believe in open-source projects as a way to combat unethical pricing for apps that are operated by greedy corporations. With this, we will publish some projects of ours to be fully free and publicly available to download. Please do note that some are built with AI, however we run these models locally on equipment we directly own. We spent excessive amounts investing in this equipment for the sole purposes of reducing our environmental impacts and retaining privacy surrounding some of our work. We get railed by PG&E monthly in expenses (our true-up bills skyrocketed), but at the same time contributing to the great state of California's fast-paced ambitions towards a future with one of the most cleanest energy grids in the world.
 
 Thank you for your support. Without you all, we could never get to where we are today. Stand by.
 
