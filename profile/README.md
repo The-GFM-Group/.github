@@ -12,4 +12,4 @@ We also believe in open-source projects as a way to combat unethical pricing for
 Thank you for your support. Without you all, we could never get to where we are today. Stay tuned.
 
 
-©️ and ™️2026 Graffix LLC and subsidiaries (FuturEntertainment LLC and Melior Industries LLC). All rights reserved.
+©️ and ™️ 2026 Graffix LLC and subsidiaries (FuturEntertainment LLC and Melior Industries LLC). All rights reserved.
